@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Jawa jawa jawa
+=======
+anjink luwh
+>>>>>>> ff399a3c16cae4d5066d79716527695e7ded5245
